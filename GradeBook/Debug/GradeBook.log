@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\HP\source\repos\GradeBook\GradeBook\main.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  GradeBook.vcxproj -> C:\Users\HP\source\repos\GradeBook\Debug\GradeBook.exe
